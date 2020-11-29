@@ -302,7 +302,7 @@ class Game:
 
 
 ticTac = Game()
-print(Game())
+ticTac.main()
 
 
 
